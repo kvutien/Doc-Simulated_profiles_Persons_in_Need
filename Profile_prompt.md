@@ -1,6 +1,6 @@
 # Prompts and answers from DeepSeek V3 chatbot
 ### (February 2025)
-The following is the transcript of a DeepSeek session to make it generate profiles of persons in neeed for the hackathon ETH Global Agentic Ethereum
+The following is the transcript of a DeepSeek AI session to make it generate profiles of persons in neeed for the hackathon ETH Global Agentic Ethereum. https://chat.deepseek.com/
 ## Initial presentation
 **My question**: *Before I formulate my request, let us proceed step by step. I will first explain my final objectives, then we'll talk about the actions that will be required to achieve the objectives, and we will see together the intermediate data that will be needed. Do you understand ? Do you have any question ?*
 
@@ -8,7 +8,7 @@ The following is the transcript of a DeepSeek session to make it generate profil
 
 I don’t have any questions at this stage, but I’m ready to listen to your objectives and proceed step by step. Please go ahead!
 
-## Further presentation of the global helper context
+## 1. Presentation of the global helper context
 **My question**: *I work in a global helper organization, bringing free assistance to persons in need. The persons in need have in general a monthly revenue of 50 USD, or equivalent in local currency. Some may have a little more, but they all have an incertain future and live day by day. Do you understand ? If you do, can you prove it by giving some examples of world recognized organizations that help these persons?*
 
 **Answer of DeepSeek**: Yes, I understand your context. You work in a global organization that provides free assistance to individuals in need, typically those with very low monthly incomes (around $50 or equivalent) and uncertain futures. These individuals often live day-to-day and rely on external support for basic needs.
@@ -100,7 +100,7 @@ While mobile phone penetration has increased globally, there are still areas whe
 
 If you’d like, we can now move on to discussing the actions required to achieve your objectives and the intermediate data needed. Let me know!
 
-## Summary presentation
+## Summary of the presentation of needs
 **My question**: *These persons in need are very heavily impacted by a smallest daily, or seasonal, variation in revenues. To carry out the assistance to persons in need, that is the mission of my organization, I need to know details of each person or each family. In our coming discussion, we will simulate that I work in one or another of the helper organizations. For each of the simulated situation, in an organization with a given mission, I will need different data. Some data are always needed for any person in need and for any helper organization, some data are collected for some kind of help and not for others, some data may be optionally collected, and some data are only known occasionally. So the key need is for free form profiles of persons in need. The profiles can be in local language but these languages must be understood by your current knowledge model. If you understand the complete explanation, refomulate and summarize exhaustively what I have said until now. What are my final objectives, what are the potential actions and what are the data needed to execute the actions?*
 
 **Answer of DeepSeek**:  The server is busy. Please try again later.
@@ -171,3 +171,8 @@ You aim to:
 4. Use SMS messaging as a primary tool for communication and data collection.
 
 If this summary aligns with your goals, we can proceed to simulate specific scenarios and discuss the data requirements for each. Let me know how you’d like to proceed!
+
+## Scenario 1: Simulate 20 persons in need and World Food Program
+**My question**: Let me know if generating 20 profiles in need is too many for you. Else let's assume in the following scenario that I work for the WFP. I need you to generate 20 profiles of persons in need. Put in the profiles realistic values for the parameters that you listed above: the always needed ones, the context-specific ones, the optionnally ones, the occasionnally ones. You may randomly miss some fields. The persons can live in any part of the world. If you happen to know the language of the country they live in, give the profile in this language, accompanied with an English translation.
+
+**Answer of DeepSeek**: 
