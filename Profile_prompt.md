@@ -686,3 +686,253 @@ These 20 profiles provide a diverse range of individuals and families in need, r
 **Answer of DeepSeek**: The server is busy. Please try again later.
 
 **Answer of DeepSeek**: 
+Certainly! Here are **10 more profiles** of persons in need, all located in **India**. These profiles reflect diverse circumstances, including rural farmers, urban workers, and disaster-affected individuals. I’ve included realistic values for the parameters and occasional missing fields to reflect real-world data collection challenges.
+
+---
+
+### **Profile 21: Small Farmer in Uttar Pradesh (Hindi)**
+- **Always Needed:**  
+  - Name: राम सिंह (Ram Singh)  
+  - Age: 48  
+  - Gender: Male  
+  - Family Size: 6 (spouse and 4 children)  
+  - Contact: +91 98765 43210  
+  - Location: Barabanki, Uttar Pradesh  
+  - Monthly Income: ~$50 (from wheat and potato farming)  
+  - Basic Needs: Struggles with food security, limited access to clean water.  
+
+- **Context-Specific (Agricultural Support):**  
+  - Crops Grown: Wheat, potatoes  
+  - Land Size: 2 acres  
+  - Challenges: Poor irrigation, fluctuating market prices  
+
+- **Optional:**  
+  - Education Level: Primary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Seasonal Variation: Income drops to $30 during dry seasons.  
+
+---
+
+### **Profile 22: Street Vendor in Mumbai (Marathi)**
+- **Always Needed:**  
+  - Name: सुनीता पाटील (Sunita Patil)  
+  - Age: 32  
+  - Gender: Female  
+  - Family Size: 4 (spouse and 2 children)  
+  - Contact: +91 87654 32109  
+  - Location: Mumbai, Maharashtra  
+  - Monthly Income: ~$60 (from selling fruits)  
+  - Basic Needs: Lives in a slum, limited access to healthcare.  
+
+- **Context-Specific (Urban Workers):**  
+  - Type of Work: Street vendor (sells fruits)  
+  - Daily Earnings: ~$2  
+  - Living Conditions: One-room slum dwelling  
+
+- **Optional:**  
+  - Education Level: Illiterate  
+  - Health: Suffers from anemia  
+
+- **Occasional:**  
+  - Crisis Event: Lost income during COVID-19 lockdowns.  
+
+---
+
+### **Profile 23: Fisherman in Kerala (Malayalam)**
+- **Always Needed:**  
+  - Name: രാജു മേനോൻ (Raju Menon)  
+  - Age: 40  
+  - Gender: Male  
+  - Family Size: 5 (spouse and 3 children)  
+  - Contact: +91 98765 43210  
+  - Location: Alappuzha, Kerala  
+  - Monthly Income: ~$70 (from fishing)  
+  - Basic Needs: Limited access to healthcare, lives in a coastal village.  
+
+- **Context-Specific (Fishermen):**  
+  - Type of Work: Small-scale fisherman  
+  - Challenges: Declining fish stocks, competition from trawlers  
+
+- **Optional:**  
+  - Education Level: Primary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Seasonal Variation: Income drops during monsoon season.  
+
+---
+
+### **Profile 24: Flood-Affected Farmer in Bihar (Hindi)**
+- **Always Needed:**  
+  - Name: मोहन प्रसाद (Mohan Prasad)  
+  - Age: 55  
+  - Gender: Male  
+  - Family Size: 7 (spouse, 4 children, and 1 elderly parent)  
+  - Contact: +91 98765 43210  
+  - Location: Muzaffarpur, Bihar  
+  - Monthly Income: ~$40 (from farming)  
+  - Basic Needs: Lost crops in recent floods, relies on aid for food.  
+
+- **Context-Specific (Disaster-Affected):**  
+  - Type of Disaster: Floods  
+  - Immediate Needs: Shelter, food  
+
+- **Optional:**  
+  - Education Level: Illiterate  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Feedback: Requests help rebuilding home.  
+
+---
+
+### **Profile 25: Construction Worker in Delhi (Hindi)**
+- **Always Needed:**  
+  - Name: राजेश कुमार (Rajesh Kumar)  
+  - Age: 30  
+  - Gender: Male  
+  - Family Size: 4 (spouse and 2 children)  
+  - Contact: +91 98765 43210  
+  - Location: Delhi, India  
+  - Monthly Income: ~$80 (from construction work)  
+  - Basic Needs: Lives in a slum, limited access to healthcare.  
+
+- **Context-Specific (Urban Workers):**  
+  - Type of Work: Construction worker  
+  - Daily Earnings: ~$3  
+  - Living Conditions: Slum dwelling  
+
+- **Optional:**  
+  - Education Level: Secondary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Crisis Event: Lost income during economic downturn.  
+
+---
+
+### **Profile 26: Tea Plantation Worker in Assam (Assamese)**
+- **Always Needed:**  
+  - Name: ৰীতা দাস (Rita Das)  
+  - Age: 35  
+  - Gender: Female  
+  - Family Size: 5 (spouse and 3 children)  
+  - Contact: +91 98765 43210  
+  - Location: Dibrugarh, Assam  
+  - Monthly Income: ~$60 (from tea plantation work)  
+  - Basic Needs: Limited access to healthcare, struggles to afford school fees for children.  
+
+- **Context-Specific (Agricultural Workers):**  
+  - Type of Work: Tea picker  
+  - Challenges: Low wages, seasonal work  
+
+- **Optional:**  
+  - Education Level: Primary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Seasonal Variation: Income drops to $40 during off-seasons.  
+
+---
+
+### **Profile 27: Street Child in Kolkata (Bengali)**
+- **Always Needed:**  
+  - Name: রাহুল মণ্ডল (Rahul Mondal)  
+  - Age: 12  
+  - Gender: Male  
+  - Family Size: None (orphan)  
+  - Contact: None  
+  - Location: Kolkata, West Bengal  
+  - Monthly Income: ~$20 (from begging)  
+  - Basic Needs: Lives on the streets, no access to education or healthcare.  
+
+- **Context-Specific (Street Children):**  
+  - Type of Work: Begging  
+  - Challenges: Exploitation, lack of shelter  
+
+- **Optional:**  
+  - Education Level: None  
+  - Health: Malnourished  
+
+- **Occasional:**  
+  - Crisis Event: Often harassed by local authorities.  
+
+---
+
+### **Profile 28: Drought-Affected Farmer in Rajasthan (Hindi)**
+- **Always Needed:**  
+  - Name: देवी लाल (Devi Lal)  
+  - Age: 50  
+  - Gender: Male  
+  - Family Size: 6 (spouse and 4 children)  
+  - Contact: +91 98765 43210  
+  - Location: Jodhpur, Rajasthan  
+  - Monthly Income: ~$30 (from farming)  
+  - Basic Needs: Struggles with food security due to drought.  
+
+- **Context-Specific (Agricultural Support):**  
+  - Crops Grown: Millet, pulses  
+  - Land Size: 1.5 hectares  
+  - Challenges: Drought, lack of irrigation  
+
+- **Optional:**  
+  - Education Level: Illiterate  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Crisis Event: Lost 80% of crops in last drought.  
+
+---
+
+### **Profile 29: Urban Worker in Chennai (Tamil)**
+- **Always Needed:**  
+  - Name: முருகன் (Murugan)  
+  - Age: 28  
+  - Gender: Male  
+  - Family Size: 3 (spouse and 1 child)  
+  - Contact: +91 98765 43210  
+  - Location: Chennai, Tamil Nadu  
+  - Monthly Income: ~$70 (from construction work)  
+  - Basic Needs: Lives in a slum, limited access to healthcare.  
+
+- **Context-Specific (Urban Workers):**  
+  - Type of Work: Construction worker  
+  - Daily Earnings: ~$2  
+  - Living Conditions: Slum dwelling  
+
+- **Optional:**  
+  - Education Level: Secondary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Crisis Event: Lost income during economic downturn.  
+
+---
+
+### **Profile 30: Flood-Affected Family in Odisha (Odia)**
+- **Always Needed:**  
+  - Name: ସୀତା ଦେବୀ (Sita Devi)  
+  - Age: 38  
+  - Gender: Female  
+  - Family Size: 5 (spouse and 3 children)  
+  - Contact: +91 98765 43210  
+  - Location: Cuttack, Odisha  
+  - Monthly Income: ~$40 (from farming)  
+  - Basic Needs: Lost home in recent floods, relies on aid for food.  
+
+- **Context-Specific (Disaster-Affected):**  
+  - Type of Disaster: Floods  
+  - Immediate Needs: Shelter, food  
+
+- **Optional:**  
+  - Education Level: Illiterate  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Feedback: Requests help rebuilding home.  
+
+---
+
+These 10 profiles provide a snapshot of the diverse challenges faced by individuals and families in need across India. Let me know if you’d like to refine or expand on any specific profile!
