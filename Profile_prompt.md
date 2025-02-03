@@ -1,4 +1,5 @@
-# Prompts and answers from DeepSeek V3 chatbot (February 2025)
+# Prompts and answers from DeepSeek V3 chatbot (
+### February 2025)
 ## Initial presentation
 **My question**: *Before I formulate my request, let us proceed step by step. I will first explain my final objectives, then we'll talk about the actions that will be required to achieve the objectives, and we will see together the intermediate data that will be needed. Do you understand ? Do you have any question ?*
 
