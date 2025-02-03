@@ -426,3 +426,263 @@ Let’s begin:
 ---
 
 Let me know if you’d like me to continue with the remaining 10 profiles!
+
+**My question**: *Yes, generate 10 more profiles.*
+
+**Answer of DeepSeek**: Certainly! Here are the remaining **10 profiles** of persons in need, continuing with realistic values for the parameters and including occasional missing fields to reflect real-world data collection challenges. I’ll also include local language details where applicable.
+
+---
+
+### **Profile 11: Fisherwoman in Senegal (Wolof)**
+- **Always Needed:**  
+  - Name: Awa Diop  
+  - Age: 40  
+  - Gender: Female  
+  - Family Size: 7 (spouse and 5 children)  
+  - Contact: +221 77 123 4567  
+  - Location: Saint-Louis, Senegal  
+  - Monthly Income: ~$50 (from fishing and selling fish)  
+  - Basic Needs: Struggles with food security, limited access to clean water.  
+
+- **Context-Specific (Fishermen):**  
+  - Type of Work: Fish seller  
+  - Challenges: Declining fish stocks, competition from industrial fishing  
+
+- **Optional:**  
+  - Education Level: No formal schooling  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Seasonal Variation: Income drops during rainy season.  
+
+---
+
+### **Profile 12: Drought-Affected Farmer in Ethiopia (Amharic)**
+- **Always Needed:**  
+  - Name: አለማየሁ ተስፋ (Alemayehu Tesfa)  
+  - Age: 55  
+  - Gender: Male  
+  - Family Size: 8 (spouse, 5 children, and 1 elderly parent)  
+  - Contact: +251 91 123 4567  
+  - Location: Tigray, Ethiopia  
+  - Monthly Income: ~$30 (from farming)  
+  - Basic Needs: Struggles with food security due to drought.  
+
+- **Context-Specific (Agricultural Support):**  
+  - Crops Grown: Teff, barley  
+  - Land Size: 1 hectare  
+  - Challenges: Drought, lack of irrigation  
+
+- **Optional:**  
+  - Education Level: Illiterate  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Crisis Event: Lost 70% of crops in last drought.  
+
+---
+
+### **Profile 13: Urban Worker in Egypt (Arabic)**
+- **Always Needed:**  
+  - Name: محمد عبد الله (Mohamed Abdullah)  
+  - Age: 30  
+  - Gender: Male  
+  - Family Size: 4 (spouse and 2 children)  
+  - Contact: +20 100 123 4567  
+  - Location: Cairo, Egypt  
+  - Monthly Income: ~$100 (from construction work)  
+  - Basic Needs: Lives in a crowded apartment, limited access to healthcare.  
+
+- **Context-Specific (Urban Workers):**  
+  - Type of Work: Construction worker  
+  - Daily Earnings: ~$3  
+  - Living Conditions: Overcrowded apartment  
+
+- **Optional:**  
+  - Education Level: Secondary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Crisis Event: Lost income during economic downturn.  
+
+---
+
+### **Profile 14: Flood-Affected Family in Pakistan (Urdu)**
+- **Always Needed:**  
+  - Name: عائشہ بی بی (Ayesha Bibi)  
+  - Age: 35  
+  - Gender: Female  
+  - Family Size: 6 (spouse and 4 children)  
+  - Contact: +92 300 123 4567  
+  - Location: Sindh, Pakistan  
+  - Monthly Income: ~$40 (from farming)  
+  - Basic Needs: Lost home in recent floods, relies on aid for food.  
+
+- **Context-Specific (Disaster-Affected):**  
+  - Type of Disaster: Floods  
+  - Immediate Needs: Shelter, food  
+
+- **Optional:**  
+  - Education Level: Illiterate  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Feedback: Requests help rebuilding home.  
+
+---
+
+### **Profile 15: Street Vendor in Nigeria (Hausa)**
+- **Always Needed:**  
+  - Name: Aisha Usman  
+  - Age: 28  
+  - Gender: Female  
+  - Family Size: 3 (spouse and 1 child)  
+  - Contact: +234 801 234 5678  
+  - Location: Kano, Nigeria  
+  - Monthly Income: ~$50 (from selling vegetables)  
+  - Basic Needs: Lives in a slum, limited access to healthcare.  
+
+- **Context-Specific (Urban Workers):**  
+  - Type of Work: Street vendor  
+  - Daily Earnings: ~$2  
+  - Living Conditions: Slum dwelling  
+
+- **Optional:**  
+  - Education Level: Primary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Crisis Event: Lost income during market closures.  
+
+---
+
+### **Profile 16: Refugee in South Sudan**
+- **Always Needed:**  
+  - Name: Mary Akol  
+  - Age: 25  
+  - Gender: Female  
+  - Family Size: 4 (spouse and 2 children)  
+  - Contact: +211 912 345 678  
+  - Location: Juba, South Sudan  
+  - Monthly Income: ~$20 (odd jobs)  
+  - Basic Needs: Displaced due to conflict, relies on aid for food.  
+
+- **Context-Specific (Refugees):**  
+  - Reason for Displacement: Civil war  
+  - Current Living Situation: Refugee camp  
+  - Legal Status: No formal documentation  
+
+- **Optional:**  
+  - Education Level: Primary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Feedback: Requests more consistent food aid.  
+
+---
+
+### **Profile 17: Farmer in Haiti (Haitian Creole)**
+- **Always Needed:**  
+  - Name: Jean Pierre  
+  - Age: 50  
+  - Gender: Male  
+  - Family Size: 5 (spouse and 3 children)  
+  - Contact: +509 34 123 4567  
+  - Location: Artibonite, Haiti  
+  - Monthly Income: ~$40 (from farming)  
+  - Basic Needs: Struggles with food security, limited access to clean water.  
+
+- **Context-Specific (Agricultural Support):**  
+  - Crops Grown: Rice, beans  
+  - Land Size: 1.5 hectares  
+  - Challenges: Soil erosion, lack of irrigation  
+
+- **Optional:**  
+  - Education Level: No formal schooling  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Crisis Event: Lost crops in recent hurricane.  
+
+---
+
+### **Profile 18: Fisherman in Vietnam (Vietnamese)**
+- **Always Needed:**  
+  - Name: Nguyễn Văn Hải  
+  - Age: 38  
+  - Gender: Male  
+  - Family Size: 4 (spouse and 2 children)  
+  - Contact: +84 912 345 678  
+  - Location: Mekong Delta, Vietnam  
+  - Monthly Income: ~$70 (from fishing)  
+  - Basic Needs: Limited access to healthcare, lives in a coastal village.  
+
+- **Context-Specific (Fishermen):**  
+  - Type of Work: Small-scale fisherman  
+  - Challenges: Overfishing, declining fish stocks  
+
+- **Optional:**  
+  - Education Level: Primary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Seasonal Variation: Income drops during monsoon season.  
+
+---
+
+### **Profile 19: Drought-Affected Herder in Somalia (Somali)**
+- **Always Needed:**  
+  - Name: Khadija Ali  
+  - Age: 45  
+  - Gender: Female  
+  - Family Size: 7 (spouse, 4 children, and 2 elderly parents)  
+  - Contact: +252 612 345 678  
+  - Location: Somaliland, Somalia  
+  - Monthly Income: ~$50 (from livestock)  
+  - Basic Needs: Struggles with food security due to drought.  
+
+- **Context-Specific (Nomadic Herders):**  
+  - Livestock: Goats, camels  
+  - Challenges: Drought, loss of livestock  
+
+- **Optional:**  
+  - Education Level: No formal schooling  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Crisis Event: Lost 60% of livestock in last drought.  
+
+---
+
+### **Profile 20: Urban Worker in Peru (Spanish)**
+- **Always Needed:**  
+  - Name: Carlos Mendoza  
+  - Age: 29  
+  - Gender: Male  
+  - Family Size: 3 (spouse and 1 child)  
+  - Contact: +51 987 654 321  
+  - Location: Lima, Peru  
+  - Monthly Income: ~$100 (from construction work)  
+  - Basic Needs: Lives in a crowded apartment, limited access to healthcare.  
+
+- **Context-Specific (Urban Workers):**  
+  - Type of Work: Construction worker  
+  - Daily Earnings: ~$3  
+  - Living Conditions: Overcrowded apartment  
+
+- **Optional:**  
+  - Education Level: Secondary school  
+  - Health: No chronic illnesses  
+
+- **Occasional:**  
+  - Crisis Event: Lost income during economic downturn.  
+
+---
+
+These 20 profiles provide a diverse range of individuals and families in need, reflecting different regions, challenges, and circumstances. Let me know if you’d like to refine or expand on any specific profile!
+
+**My question**: *Generate 10 more profiles. This time all 10 persons will be in India*
+
+**Answer of DeepSeek**: The server is busy. Please try again later.
+
+**Answer of DeepSeek**: 
