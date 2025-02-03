@@ -937,7 +937,7 @@ Certainly! Here are **10 more profiles** of persons in need, all located in **In
 
 These 10 profiles provide a snapshot of the diverse challenges faced by individuals and families in need across India. Let me know if you’d like to refine or expand on any specific profile!
 
-## Scenario 1: List properties of a useful helper program
+## Scenario 1: Properties of a useful helper program
 **My question**: *Based on what you know of the WFP, based on the sample profiles of need that are simulated above, considering the possible political obstacles, what are the parameters of a helper prgram that would be the most useful when scaled up to tens or hundreds of thousands of persons in need?*
 
 **Answer of DeepSeek**: Designing a **scalable helper program** for tens or hundreds of thousands of persons in need, particularly in the context of the **World Food Programme (WFP)**, requires careful consideration of the **diverse needs** of beneficiaries, **political obstacles**, and **operational constraints**. Based on the simulated profiles and the WFP’s mission, here are the **key parameters** for a scalable and effective helper program:
