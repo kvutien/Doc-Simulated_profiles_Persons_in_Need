@@ -1040,7 +1040,7 @@ A scalable program could look like this:
 
 By focusing on these parameters, the program can effectively address the needs of tens or hundreds of thousands of persons in need while navigating political and operational challenges. Let me know if you’d like to dive deeper into any specific aspect!
 
-## Scenario 1: Program Description of such a helper program
+## Scenario 1: Program Sheet of such a helper program
 **My question**: *Take the Example of a Scalable Program that you gave, create a fully detailed Program Sheet with concrete values for bullet points. Define tne selection criteria of candidates for help in the target group (revenues, urgency of need, etc.). With these criteria, you can identify the profiles that you simulated above that qualify. List the persons that qualify*
 
 **Answer of DeepSeek**: 
