@@ -42,11 +42,11 @@ To prove my understanding, here are some examples of world-recognized organizati
 
 These organizations are recognized globally for their efforts to assist individuals and communities living in poverty or facing uncertain futures, similar to the population you are helping. Let me know if you'd like to proceed to the next step!
 
-## Further presentation of the persons in need context
-### My question:
+# 2. Further presentation of the persons in need context
+## My question:
 *All these persons in need can normally survive by themselves. They only need help to pass a period of hardship and in general to improve their livelihood. Examples of the persons in need can be small farmers or poor agricultural workers living in the countryside. They can be daily street workers living in huge cities. They can be refugees suffering from war or from disasters, earthquake, floods, droughts etc. They live in many countries in the world, Asia, Europe, Latin America, Africa, India etc. Some have family and kids, some are bachelors. Some have schooling education, some are illiterate. For our purposes they need at least a simple mobile phone to do SMS messaging. If you understand, can you prove it by giving examples such kind of persons in need in some different countries worldwide and what they are suffering from? Give some countries where mobile phones are not available.*
 
-### Answer of DeepSeek:
+## Answer of DeepSeek:
 Yes, I understand your description of the persons in need and their circumstances. These individuals are typically self-reliant but face temporary or ongoing hardships that require external assistance to improve their livelihoods. They often live in challenging environments, such as rural areas or overcrowded cities, and may be affected by conflict, natural disasters, or economic instability. While many have access to basic mobile phones for SMS messaging, there are still regions where mobile phones are not widely available.
 
 Here are examples of such persons in need in different countries worldwide, along with the challenges they face:
@@ -106,14 +106,14 @@ While mobile phone penetration has increased globally, there are still areas whe
 
 If you’d like, we can now move on to discussing the actions required to achieve your objectives and the intermediate data needed. Let me know!
 
-## Summary of the presentation of needs
-### My question:
+# 3. Summary of the presentation of needs
+## My question:
 *These persons in need are very heavily impacted by a smallest daily, or seasonal, variation in revenues. To carry out the assistance to persons in need, that is the mission of my organization, I need to know details of each person or each family. In our coming discussion, we will simulate that I work in one or another of the helper organizations. For each of the simulated situation, in an organization with a given mission, I will need different data. Some data are always needed for any person in need and for any helper organization, some data are collected for some kind of help and not for others, some data may be optionally collected, and some data are only known occasionally. So the key need is for free form profiles of persons in need. The profiles can be in local language but these languages must be understood by your current knowledge model. If you understand the complete explanation, refomulate and summarize exhaustively what I have said until now. What are my final objectives, what are the potential actions and what are the data needed to execute the actions?*
 
-### Answer of DeepSeek:
+## Answer of DeepSeek:
 The server is busy. Please try again later.
 
-### Answer of DeepSeek:
+## Answer of DeepSeek:
 Yes, I understand your explanation thoroughly. Let me reformulate and summarize your objectives, potential actions, and the data needed to execute those actions in a structured and exhaustive manner:
 
 ---
@@ -181,11 +181,11 @@ You aim to:
 
 If this summary aligns with your goals, we can proceed to simulate specific scenarios and discuss the data requirements for each. Let me know how you’d like to proceed!
 
-## Scenario 1: Simulate 20 persons in need and World Food Program
-### My question:
+# 4. Scenario 1: Simulate 20 persons in need and World Food Program
+## My question:
 *Let me know if generating 20 profiles in need is too many for you. Else let's assume in the following scenario that I work for the WFP. I need you to generate 20 profiles of persons in need. Put in the profiles realistic values for the parameters that you listed above: the always needed ones, the context-specific ones, the optionnally ones, the occasionnally ones. You may randomly miss some fields. The persons can live in any part of the world. If you happen to know the language of the country they live in, give the profile in this language, accompanied with an English translation.*
 
-### Answer of DeepSeek:
+## Answer of DeepSeek:
 Generating 20 profiles is not too many, and I can certainly create realistic profiles for persons in need, assuming you work for the **World Food Programme (WFP)**. Each profile will include realistic values for the parameters we discussed: **always needed**, **context-specific**, **optional**, and **occasional** data. I will also include some missing fields to reflect real-world data collection challenges. Where applicable, I will provide profiles in the local language (if within my knowledge model) along with an English translation.
 
 Let’s begin:
@@ -438,10 +438,10 @@ Let’s begin:
 
 Let me know if you’d like me to continue with the remaining 10 profiles!
 
-### My question:
+## My question:
 *Yes, generate 10 more profiles.*
 
-### Answer of DeepSeek:
+## Answer of DeepSeek:
 Certainly! Here are the remaining **10 profiles** of persons in need, continuing with realistic values for the parameters and including occasional missing fields to reflect real-world data collection challenges. I’ll also include local language details where applicable.
 
 ---
@@ -694,13 +694,13 @@ Certainly! Here are the remaining **10 profiles** of persons in need, continuing
 
 These 20 profiles provide a diverse range of individuals and families in need, reflecting different regions, challenges, and circumstances. Let me know if you’d like to refine or expand on any specific profile!
 
-### My question:
+## My question:
 *Generate 10 more profiles. This time all 10 persons will be in India*
 
-### Answer of DeepSeek:
+## Answer of DeepSeek:
 The server is busy. Please try again later.
 
-### Answer of DeepSeek: 
+## Answer of DeepSeek: 
 Certainly! Here are **10 more profiles** of persons in need, all located in **India**. These profiles reflect diverse circumstances, including rural farmers, urban workers, and disaster-affected individuals. I’ve included realistic values for the parameters and occasional missing fields to reflect real-world data collection challenges.
 
 ---
@@ -952,11 +952,11 @@ Certainly! Here are **10 more profiles** of persons in need, all located in **In
 
 These 10 profiles provide a snapshot of the diverse challenges faced by individuals and families in need across India. Let me know if you’d like to refine or expand on any specific profile!
 
-## Scenario 1: Properties of an useful helper program
-### My question:
+# 6. WFP Scenario: Properties of an useful helper program
+## My question:
 *Based on what you know of the WFP, based on the sample profiles of need that are simulated above, considering the possible political obstacles, what are the parameters of a helper prgram that would be the most useful when scaled up to tens or hundreds of thousands of persons in need?*
 
-### Answer of DeepSeek:
+## Answer of DeepSeek:
 Designing a **scalable helper program** for tens or hundreds of thousands of persons in need, particularly in the context of the **World Food Programme (WFP)**, requires careful consideration of the **diverse needs** of beneficiaries, **political obstacles**, and **operational constraints**. Based on the simulated profiles and the WFP’s mission, here are the **key parameters** for a scalable and effective helper program:
 
 ---
@@ -1057,11 +1057,11 @@ A scalable program could look like this:
 
 By focusing on these parameters, the program can effectively address the needs of tens or hundreds of thousands of persons in need while navigating political and operational challenges. Let me know if you’d like to dive deeper into any specific aspect!
 
-## Scenario 1: Program Sheet of such a helper program
-### My question:
+# 7. WFP Scenario: Program Sheet of such a helper program
+## My question:
 *Take the Example of a Scalable Program that you gave, create a fully detailed Program Sheet with concrete values for bullet points. Define tne selection criteria of candidates for help in the target group (revenues, urgency of need, etc.). With these criteria, you can identify the profiles that you simulated above that qualify. List the persons that qualify*
 
-### Answer of DeepSeek:
+## Answer of DeepSeek:
 Below is a **fully detailed Program Sheet** for the scalable program example I provided earlier. This includes **concrete values**, **selection criteria**, and a **list of qualifying profiles** from the simulated examples.
 
 ---
@@ -1215,10 +1215,10 @@ Based on the selection criteria, the following **profiles qualify** for assistan
 
 This **Program Sheet** provides a concrete framework for implementing a scalable and impactful assistance program. Let me know if you’d like to refine or expand on any aspect!
 
-### My question:
+## My question:
 *You made a mistake. You included in this program, targeting India, some persons who don't live in India*
 
-### Answer of DeepSeek:
+## Answer of DeepSeek:
 You're absolutely right—thank you for catching that! I mistakenly included profiles from outside India in the list of qualifying beneficiaries for a program targeting India. Let me correct this by **focusing only on the profiles that are based in India** and ensuring the program aligns with the specific needs of individuals in the Indian context.
 
 ---
@@ -1345,12 +1345,12 @@ The same selection criteria apply, but now **exclusively for individuals in Indi
 
 This revised **Program Sheet** now accurately focuses on **India-only profiles** and aligns with the specific needs of individuals in the Indian context. Let me know if you’d like further adjustments or additional details!
 
-## Summary of our state of reflection
+# 8. Summary of our state of reflection
 
-### My question: 
+## My question: 
 *Let's summarize our state of reflection. You understood my objectives. You identified the International helper organizations. You acknowleged that the persons in need can be self-reliant and that some help can improve their livelihood. You listed the information about the persons in need that are useful to help them efficiently. But you may be aware that internation helper organizations mostly collect funds and define programs, and rely on local helper organizations to be in touch with the local population. If you do, list some of them.*
 
-### Answer of DeepSeek: 
+## Answer of DeepSeek: 
 Yes, I understand the state of our reflection so far, and I appreciate the opportunity to summarize and expand on it. Let’s recap and then address the role of **local helper organizations** that international organizations like the **World Food Programme (WFP)** often rely on to implement programs on the ground.
 
 ---
@@ -1483,5 +1483,7 @@ If you’d like, we can now focus on:
 
 Let me know how you’d like to proceed!
 
-**My question**: *But you identified the mobile phone as only a tool to receive and collect data. Can you confirm that, along with the staff of local helper associations who can afford smart mobile tablets or phones, as well as with techniques like Ethereum ERC 4337 Account Abstraction, multisignature can be used to facilitate blockchain transactions using simple phones*
-**Answer of DeepSeek**: 
+# 8. 
+## My question:
+*But you identified the mobile phone as only a tool to receive and collect data. Can you confirm that, along with the staff of local helper associations who can afford smart mobile tablets or phones, as well as with techniques like Ethereum ERC 4337 Account Abstraction, multisignature can be used to facilitate blockchain transactions using simple phones*
+## Answer of DeepSeek**:
