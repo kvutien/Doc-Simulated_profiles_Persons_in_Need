@@ -1326,7 +1326,7 @@ This revised **Program Sheet** now accurately focuses on **India-only profiles**
 
 ## Summary of our state of reflection
 
-**My question**: *Let's summarize our state of reflection. You understood my objectives. You identified the International helper organizations. You acknowleged that the persons in need can be self-reliant and that some help can improve their livelihood. You listed the information about the persons in need that are useful to help them efficiently. But you may be aware that internation helper organizations mostly collect funds and define programs, and rely on local helper organizations to be in touch with the local population. If you do, list some of them.*
+**My question**: **Let's summarize our state of reflection. You understood my objectives. You identified the International helper organizations. You acknowleged that the persons in need can be self-reliant and that some help can improve their livelihood. You listed the information about the persons in need that are useful to help them efficiently. But you may be aware that internation helper organizations mostly collect funds and define programs, and rely on local helper organizations to be in touch with the local population. If you do, list some of them.**
 
 **Answer of DeepSeek**: Yes, I understand the state of our reflection so far, and I appreciate the opportunity to summarize and expand on it. Let’s recap and then address the role of **local helper organizations** that international organizations like the **World Food Programme (WFP)** often rely on to implement programs on the ground.
 
