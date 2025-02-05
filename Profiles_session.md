@@ -2203,13 +2203,13 @@ contract ProfileMarketplace {
 
 Let me know if you’d like to refine this further or explore other aspects of the system!
 
-# 11. 
 ## My question:
+*Yes, conduct a more thorough linguistic review. I'll give you later my comments on the Solidity pseudo-code.*
 
 
 ## Answer of DeepSeek:
 
-# 12. 
+# 11. 
 ## My question:
 
 
