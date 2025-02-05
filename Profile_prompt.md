@@ -231,7 +231,7 @@ You’re absolutely right—let’s address your points step by step and refine 
 *Yes, conduct a more thorough linguistic review. I'll give you later my comments on the Solidity pseudo-code.*
 
 ## Answer of DeepSeek:
-No offense in following languages: 
+It found no offense in any of the following languages: 
 English, French, Spanish, German, Hindi, Russian, Portuguese, Chinese (Mandarin), Japanese, Korean, Arabic, Hebrew, Swahili, Yoruba, Zulu, Quechua (Inca language), Nahuatl (Aztec language), Maori, Turkish, Vietnamese, Thai.  
 
 # 11. 
