@@ -1769,9 +1769,9 @@ This workflow ensures that **persons in need** can take ownership of their perso
 
 # 10. Generalize ownership and motivation for Inclusive Finance
 ## My question:
-*1. Do we really need a JSON format for the profile? Doing so makes the system needlessly rigid and may introduce discrepancies in profiles collected by different helper organizations. Why don't we use free-form text for the profiles and accompany it with an AI embedding of this text in the form of a vector?
-2. Your example of queries is limited to a helper staff. Can't we generalize the author of queries to any commercial company doing market research for their services, or any helper organization collecting the profiles to improve accuracy of their helper program?
-3. Why don't we create a dedicated ERC 20 fungible token in place of paying by ETH in the example above? This token may be used also for Cash & Voucher Assistance and generalized inclusive finance purposes. This will motivate the person in need to keep up to date their profile.*
+1. *Do we really need a JSON format for the profile? Doing so makes the system needlessly rigid and may introduce discrepancies in profiles collected by different helper organizations. Why don't we use free-form text for the profiles and accompany it with an AI embedding of this text in the form of a vector?*
+2. *Your example of queries is limited to a helper staff. Can't we generalize the author of queries to any commercial company doing market research for their services, or any helper organization collecting the profiles to improve accuracy of their helper program?*
+3. *Why don't we create a dedicated ERC 20 fungible token in place of paying by ETH in the example above? This token may be used also for Cash & Voucher Assistance and generalized inclusive finance purposes. This will motivate the person in need to keep up to date their profile.*
 
 ## Answer of DeepSeek:
 Excellent points! Let’s address each of your suggestions and refine the workflow accordingly. Your ideas significantly improve the flexibility, scalability, and utility of the system. Here’s how we can incorporate them:
