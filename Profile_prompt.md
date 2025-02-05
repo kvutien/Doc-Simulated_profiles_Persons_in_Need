@@ -1946,9 +1946,9 @@ contract ProfileManager {
 Let me know if you’d like to dive deeper into any specific aspect, such as the AI embedding process, tokenomics, or governance mechanisms!
 
 ## My question:
-*1. Check that the HELP token doesn't exist yet in the real crypto market. Else, propose several other names (hint: the project name is Machu Picchu, that reminds of the Inca citadel made of huge blocks of stone that fit together tightly without mortar). Is there any recognized organization that manages token names, where token names are registered?*
-*2. To incentivize persons in need to keep their profiles up to date, remember that every time they update their profile on IPFS, a new CID is generated, so the queries requesters have to query again and pay to obtain fresh information.*
-*3. Your Solidity example has a logic flaw. The `ProfileManager` cannot mint a widely used ERC 20 token and in the same time manage the profile of a beneficiary, else we have a centralized system that defeats the whole purpose. We need to limit the `ProfileManager` to each beneficiary, and mint the fungible token separately at the launch of Machu Picchu.  In addition, `RewardProfile` is a function for a requester and cannot belong to the same smart contract as `upDateProfile` and `grantAccess`. I suggest that we set aside this example for the moment, it's too early, and come back later to it in our Chain of Thoughts.*
+1. *Check that the HELP token doesn't exist yet in the real crypto market. Else, propose several other names (hint: the project name is Machu Picchu, that reminds of the Inca citadel made of huge blocks of stone that fit together tightly without mortar). Is there any recognized organization that manages token names, where token names are registered?*
+2. *To incentivize persons in need to keep their profiles up to date, remember that every time they update their profile on IPFS, a new CID is generated, so the queries requesters have to query again and pay to obtain fresh information.*
+3. *Your Solidity example has a logic flaw. The `ProfileManager` cannot mint a widely used ERC 20 token and in the same time manage the profile of a beneficiary, else we have a centralized system that defeats the whole purpose. We need to limit the `ProfileManager` to each beneficiary, and mint the fungible token separately at the launch of Machu Picchu.  In addition, `RewardProfile` is a function for a requester and cannot belong to the same smart contract as `upDateProfile` and `grantAccess`. I suggest that we set aside this example for the moment, it's too early, and come back later to it in our Chain of Thoughts.*
 
 ## Answer of DeepSeek:
 You’re absolutely right—let’s address your points step by step and refine our approach. I’ll also propose alternative token names and clarify the separation of concerns in the smart contract design.
@@ -2045,7 +2045,11 @@ As you suggested, it’s too early to finalize the smart contract design. Let’
 Let me know how you’d like to proceed! For example, we could now focus on finalizing the token name and use cases, or dive deeper into the incentive mechanism.
 
 ## My question:
-I kind of like the token name HELP if it is still free. Check that in all the languages and dialects that you know, HELP doesn't have an offensive meaning
+*I'd like to dig a bit deeper on this topic before proceeding further*
+1. **Token Name**: *I kind of like the token name HELP, if it is still free, because HELP is universal. Being universal is Machu Picchu's target. No need for fancy Inca name. Let's check that in all the languages and dialects that you know, HELP doesn't have an offensive meaning or sound like something offensive in any of them. An example of error is the car brand e-tron, which means shit in French, or Alcatel, that has this same meaning in arabic*
+2. **Incentive mechanism**: *The ProFile Manager is for sure the Person in Need who owns it. The Reward Manager is quite certainly the Profile Requester. What do you think about using the ERC 20 practice for reward payment, which is that the Requester would allow the Profile owner to retrieve the paid amount from the Requester's wallet.*
+3. **Incentive mechanism**: *Let's think about how and how much a Requester should pay a profile. "How to pay" would be the ERC 20 retrieval practice. "How much" as you have said above, the price would be higher for a commercial service than for a non-profit helper asociation. Let's look for a very simple solution, light to program in a smart contract logic to reduce gas costs. Maybe we can leave the decision to accept or refuse totally up to the person in need, and have no pre-programmed logic. A requester would bid to pay with an amount and if its request is rejected, will try a higher amount. Try and suggest a better and simpler solution? Is there any implementation caveat, for example in ease of use?*
+
 
 ## Answer of DeepSeek:
 
