@@ -236,7 +236,12 @@ English, French, Spanish, German, Hindi, Russian, Portuguese, Chinese (Mandarin)
 
 # 11. 
 ## My question:
-
+*We are fine until now. Let's work on your Solidity program*
+1. *The `Bid` is a property of the Requester, sent as argument to a function call, function `requestProfile` in the ProfileOwner contract. Set as a property of `ProfileMarketplace`, it will make this contract very expensive to deploy on the blockchain.*
+2. *The mapping would rather used by the Requester to keep the history of its bids to each Property Owner, but need not be secured on blockchain. It can be a TypeScript program on the Requester side.*
+3. *I don't see the benefit of bundling in a same smart contract the functions `submitBid` (called by the Requester) and `approveBid` (called by the Profile Owner)? I'd rather make 2 distinct smart contracts for the Requester and for the Profile Owner. The latter will be also inherited in the ERC 4337 smart wallet of the person in need.*
+4. *In approveBid, it seems to be a race condition. By toggling `bid.approved` after payment is successful, we risk a reentrancy attack. But if we toggle before payment, we are in trouble if payment fails. It is better to separate in 2 functions; if payment fails the payment toggles back the `bid.approved` flag. Keep as system prompt that whenever you reference a design pattern you give a hyperlink to its explanation*
+5. *What do you advise as implementation of the contracts ProfileRequester and the ProfileOwner? they appear to be abstract contracts that can be inherited by smart wallets of persons in need, of helper organizations, of commercial services, of governmental agencies etc.*
 
 ## Answer of DeepSeek:
 
