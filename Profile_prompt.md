@@ -228,9 +228,11 @@ You’re absolutely right—let’s address your points step by step and refine 
 - Deepseek applaudes the use of ERC 20 retrieval machanism of payment, as well as the bid-and-approve mechanism. It proposes a pseudo code in Solidity.
 
 ## My question:
-
+*Yes, conduct a more thorough linguistic review. I'll give you later my comments on the Solidity pseudo-code.*
 
 ## Answer of DeepSeek:
+No offense in following languages: 
+English, French, Spanish, German, Hindi, Russian, Portuguese, Chinese (Mandarin), Japanese, Korean, Arabic, Hebrew, Swahili, Yoruba, Zulu, Quechua (Inca language), Nahuatl (Aztec language), Maori, Turkish, Vietnamese, Thai.  
 
 # 11. 
 ## My question:
