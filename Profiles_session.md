@@ -2306,7 +2306,7 @@ Storing all bids in a single mapping on-chain would indeed be expensive. Instead
 
 ### **3. Preventing Race Conditions and Reentrancy Attacks**
 To avoid race conditions and reentrancy attacks, we’ll:
-- Use the **Checks-Effects-Interactions pattern** (see [OpenZeppelin’s explanation](https://docs.openzeppelin.com/contracts/4.x/security)).  
+- Use the **Checks-Effects-Interactions pattern** (see [https://docs.openzeppelin.com/contracts/4.x/api/security#ReentrancyGuard)).  
 - Separate the approval and payment logic into two functions to ensure atomicity.  
 
 ---
