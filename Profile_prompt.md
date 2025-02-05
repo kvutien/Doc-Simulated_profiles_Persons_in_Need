@@ -234,7 +234,7 @@ You’re absolutely right—let’s address your points step by step and refine 
 It found no offense in any of the following languages: 
 English, French, Spanish, German, Hindi, Russian, Portuguese, Chinese (Mandarin), Japanese, Korean, Arabic, Hebrew, Swahili, Yoruba, Zulu, Quechua (Inca language), Nahuatl (Aztec language), Maori, Turkish, Vietnamese, Thai.  
 
-# 11. 
+# 11. Deep Dive into the Bid-and-Approve Solidity solution
 ## My question:
 *We are fine until now. Let's work on your Solidity program*
 1. *The `Bid` is a property of the Requester, sent as argument to a function call, function `requestProfile` in the ProfileOwner contract. Set as a property of `ProfileMarketplace`, it will make this contract very expensive to deploy on the blockchain.*
