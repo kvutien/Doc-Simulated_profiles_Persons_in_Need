@@ -2046,14 +2046,20 @@ Let me know how you’d like to proceed! For example, we could now focus on fina
 
 ## My question:
 *I'd like to dig a bit deeper on this topic.*
-1. **Token Name**: *I kind of like the token name HELP, if it is not used by another token on the market, because HELP is universal. Being universal is Machu Picchu's target. No need for fancy Inca name. Let's check also that in all the languages and dialects that you know, HELP doesn't have an offensive meaning or sound like something offensive in any of them. An example of error is the car brand e-tron, which means shit in French, or Alcatel, that has this same meaning in arabic*
-2. **Incentive mechanism**: *The ProFile Manager is for sure the Person in Need who owns it. The Reward Manager is quite certainly the Profile Requester. What do you think about using the ERC 20 practice for reward payment, which is that the Requester would allow the Profile owner to retrieve the paid amount from the Requester's wallet.*
-3. **Incentive mechanism**: *Let's think about how and how much a Requester should pay a profile. "How to pay" would be the ERC 20 retrieval practice. "How much" as you have said above, the price would be higher for a commercial service than for a non-profit helper asociation. Let's look for a very simple solution, light to program in a smart contract logic to reduce gas costs. Maybe we can leave the decision to accept or refuse totally up to the person in need, and have no pre-programmed logic. A requester would bid to pay with an amount and if its request is rejected, will try a higher amount. Try and suggest a better and simpler solution? Is there any implementation caveat, for example in ease of use?*
+1. **Token Name**: *I kind of like the token name HELP, if it is not used by another token on the market, because HELP is universal. Being universal is Machu Picchu's target. No need for fancy Inca name. Let's check also that in all the languages and dialects that you know, HELP doesn't have an offensive meaning or sound like something offensive in any of them. An example of error is the famous car brand e-tron, which sounds like shit in French, or Alcatel, that has this same meaning in Arabic*
+2. **Incentive mechanism**: *The ProFile Manager is for sure the Person in Need who owns it. The Reward Manager is quite certainly the Profile Requester. What do you think about using the ERC 20 payment practice, where the Requester would allow the Profile owner to retrieve the paid amount from the Requester's wallet.*
+3. **Incentive mechanism**: *Let's think about how and how much a Requester should pay a profile. "How to pay" would be the ERC 20 retrieval practice. "How much" as you have said above, the price would be higher for a commercial service than for a non-profit helper association. Let's look for a very simple solution, light to program in a smart contract logic to reduce gas costs. Maybe we can leave the decision to accept or refuse totally up to the person in need, and have no pre-programmed logic. A requester would bid to pay with an amount and if its request is rejected, will try a higher amount. Try and suggest a better and simpler solution? Is there any implementation caveat, for example in ease of use?*
+
+## Answer of DeepSeek:
+
+
+# 11. 
+## My question:
 
 
 ## Answer of DeepSeek:
 
-# 11. 
+# 12. 
 ## My question:
 
 
