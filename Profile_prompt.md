@@ -222,9 +222,8 @@ You’re absolutely right—let’s address your points step by step and refine 
 3. **Incentive mechanism**: *Let's think about how and how much a Requester should pay a profile. "How to pay" would be the ERC 20 retrieval practice. "How much" as you have said above, the price would be higher for a commercial service than for a non-profit helper association. Let's look for a very simple solution, light to program in a smart contract logic to reduce gas costs. Maybe we can leave the decision to accept or refuse totally up to the person in need, and have no pre-programmed logic. A requester would bid to pay with an amount and if its request is rejected, will try a higher amount. Try and suggest a better and simpler solution? Is there any implementation caveat, for example in ease of use?*
 
 ## Answer of DeepSeek:
-DeepSeek says that HELP token name is OK in English, French, Spanish, Arabic, Hindi, Chinese and Swahili. It says it can conduct a more through review.
-
-Deepseek applaudes the use of ERC 20 retrieval machanism of payment, as well as the bid-and-approve mechanism. It proposes a pseudo code in Solidity.
+- DeepSeek says that HELP token name is OK in English, French, Spanish, Arabic, Hindi, Chinese and Swahili. It says it can conduct a more through review.
+- Deepseek applaudes the use of ERC 20 retrieval machanism of payment, as well as the bid-and-approve mechanism. It proposes a pseudo code in Solidity.
 
 ## My question:
 
