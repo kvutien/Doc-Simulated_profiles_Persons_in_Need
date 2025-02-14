@@ -1,6 +1,6 @@
-# Prompts and answers from DeepSeek V3 chatbot
+# Prompts and answers from chatbot, DeepSeek V3
 #### (February 2025)
-The following is a copy of only the prompts used in the DeepSeek AI session. The answers of DeepSeek are omitted here. The session with DeepSeek's answers in totality is transcripted in file `Profiles_session.md`. The conversation guides step-by-step the chatbot to design with me the principles of Machu Picchu, a project that applies 21st century software tools to change the way humanitarians work.
+The following is a copy of only the prompts used in 2 chatbots, a DeepSeek AI session & a Le Chat session . The answers of chatbots are omitted here. The session with DeepSeek's answers in totality is transcripted in file `Profiles_session_DeepSeek.md`. The conversation guides step-by-step the chatbot to design with me the principles of Machu Picchu, a project that applies 21st century software tools to change the way humanitarians work.
 
 You can use the prompts in your own DeepSeek session and compare your answers with mine. https://chat.deepseek.com/. Yes, you too, you can design Machu Picchu !!!
 # 0. Initial presentation
