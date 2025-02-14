@@ -10,12 +10,15 @@ You can use the prompts in your own DeepSeek / le Chat sessions and compare your
 ## Answer of DeepSeek:
 It acknowledges and is ready to proceed.
 
+## Answer of le Chat:
+It acknowledges and is ready to proceed.
+
 # 1. Presentation of the global helper context
 ## My question:
 *I work in a global helper organization, bringing free assistance to persons in need. The persons in need have in general a monthly revenue of 50 USD, or equivalent in local currency. Some may have a little more, but they all have an incertain future and live day by day. Do you understand ? If you do, can you prove it by giving some examples of world recognized organizations that help these persons?*
 
 ## Answer of DeepSeek:
-It gives a list of international helper organizations
+It gives a list of 7 international helper organizations
 1. The United Nations World Food Programme (WFP)
 2. Oxfam
 3. CARE International
@@ -23,6 +26,15 @@ It gives a list of international helper organizations
 5. The Red Cross and Red Crescent Movement
 6. Save the Children
 7. BRAC
+
+## Answer of Le Chat:
+It gives a list of 5 international helper organizations
+1. Oxfam
+2. Red Cross/Red Crescent
+3. UNICEF
+4. World Food Programme (WFP)
+5. Doctors Without Borders (MSF)
+
 
 # 2. Further presentation of the persons in need context
 ## My question:
