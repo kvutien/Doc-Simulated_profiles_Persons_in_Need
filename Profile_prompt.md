@@ -99,7 +99,7 @@ It gives 10 profiles.
 - Profile 10: Street Child in Philippines (Tagalog)
 
 ## Answer of Le Chat
-Better than DeepSeek, Le Chat generates straight 20 profiles in Spanish and in French when applicable, but in Chinese, Arabic and Hindu it sticks with the English version.
+Better than DeepSeek, Le Chat generates straight 20 profiles in Spanish, in French and in Hindi when applicable, but in Portuguese, Mandarin, Arabic, Somali, Indonesian, Urdu,NepalimUkrainian,Bengali it sticks with the English version.
 
 ## My question for DeepSeek only:
 *Yes, generate 10 more profiles.*
