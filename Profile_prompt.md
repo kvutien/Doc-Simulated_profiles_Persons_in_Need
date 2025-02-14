@@ -35,7 +35,6 @@ It gives a list of 5 international helper organizations
 4. World Food Programme (WFP)
 5. Doctors Without Borders (MSF)
 
-
 # 2. Further presentation of the persons in need context
 ## My question:
 *All these persons in need can normally survive by themselves. They only need help to pass a period of hardship and in general to improve their livelihood. Examples of the persons in need can be small farmers or poor agricultural workers living in the countryside. They can be daily street workers living in huge cities. They can be refugees suffering from war or from disasters, earthquake, floods, droughts etc. They live in many countries in the world, Asia, Europe, Latin America, Africa, India etc. Some have family and kids, some are bachelors. Some have schooling education, some are illiterate. For our purposes they need at least a simple mobile phone to do SMS messaging. If you understand, can you prove it by giving examples such kind of persons in need in some different countries worldwide and what they are suffering from? Give some countries where mobile phones are not available.*
@@ -57,12 +56,29 @@ It gives examples of Countries or Regions Where Mobile Phones Are Not Widely Ava
 4. Indigenous Communities in the Amazon Rainforest (e.g., Brazil, Peru)
 5. North Korea
 
+## Answer of Le Chat:
+It gives examples of Persons in Need worldwide
+1. Bangladesh: Small Farmers, Garment Workers.
+2. Kenya: Pastoralists, Urban Slum Dwellers.
+3. Syria: Refugees.
+4. Haiti: Earthquake Victims, Rural Farmers.
+5. India: Daily Wage Laborers, Tribal Communities.
+
+It gives examples of Countries or Regions Where Mobile Phones Are Not Widely Available
+1. North Korea
+2. Certain Rural Areas in Africa
+3. Some Indigenous Communities.
+
+
 # 3. Summary of the presentation of needs
 ## My question:
 *These persons in need are very heavily impacted by a smallest daily, or seasonal, variation in revenues. To carry out the assistance to persons in need, that is the mission of my organization, I need to know details of each person or each family. In our coming discussion, we will simulate that I work in one or another of the helper organizations. For each of the simulated situation, in an organization with a given mission, I will need different data. Some data are always needed for any person in need and for any helper organization, some data are collected for some kind of help and not for others, some data may be optionally collected, and some data are only known occasionally. So the key need is for free form profiles of persons in need. The profiles can be in local language but these languages must be understood by your current knowledge model. If you understand the complete explanation, refomulate and summarize exhaustively what I have said until now. What are my final objectives, what are the potential actions and what are the data needed to execute the actions?*
 
 ## Answer of DeepSeek:
 It reformulates and summarizes objectives, potential actions, and the data needed to execute those actions in a structured and exhaustive manner.
+
+## Answer of Le Chat:
+It reformulates and summarizes objectives, potential actions, Data Needed to Execute Actions. It insists that the key need is for flexible, free-form profiles of individuals in need. These profiles should be in local languages but must be understandable within your current knowledge model to facilitate effective assistance and communication..
 
 # 4. WFP Scenario: Simulate 20 persons in need - World Food Program
 ## My question:
@@ -82,7 +98,10 @@ It gives 10 profiles.
 - Profile 9: Earthquake Survivor in Nepal (Nepali)
 - Profile 10: Street Child in Philippines (Tagalog)
 
-## My question:
+## Answer of Le Chat
+Better than DeepSeek, Le Chat generates immediately 10 profiles in Spanish and in French when applicable, but in Chinese, Arabic and Hindu it sticks with the English version.
+
+## My question for DeepSeek only:
 *Yes, generate 10 more profiles.*
 
 ## Answer of DeepSeek:
@@ -115,6 +134,10 @@ It gives 10 more profiles in India
 - Profile 28: Drought-Affected Farmer in Rajasthan (Hindi)
 - Profile 29: Urban Worker in Chennai (Tamil)
 - Profile 30: Flood-Affected Family in Odisha (Odia)
+
+## Answer of Le Chat
+Curiously, this time, of the 10 profiles, those in Hindi have a Hindi version, however profiles in Kannada, Bengali,Marathim Telugum Gujarati can only be in English.
+
 
 # 6. WFP Scenario: Properties of an useful helper program
 ## My question:
