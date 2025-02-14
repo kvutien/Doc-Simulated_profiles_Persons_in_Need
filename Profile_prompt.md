@@ -136,7 +136,7 @@ It gives 10 more profiles in India
 - Profile 30: Flood-Affected Family in Odisha (Odia)
 
 ## Answer of Le Chat
-Curiously, this time, of the 10 profiles, those in Hindi have a Hindi version, however profiles in Kannada, Bengali,Marathim Telugum Gujarati can only be in English.
+Curiously, this time, of the 10 profiles, those in Kannada, Bengali, Marathim, Telugum, Gujarati are only in English.
 
 
 # 6. WFP Scenario: Properties of an useful helper program
