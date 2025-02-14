@@ -2,7 +2,7 @@
 #### (February 2025)
 The following is a copy of only the prompts used in 2 chatbots, a DeepSeek AI session & a Le Chat session. The answers of chatbots are omitted here. The session with DeepSeek's answers in totality is transcripted in file `Profiles_session_DeepSeek.md`. The session with Le Chat's answers in totality is transcripted in file `Profiles_session_Le_Chat.md`. The conversation guides step-by-step the chatbot to design with me the principles of Machu Picchu, a project that applies 21st century software tools to change the way humanitarians work.
 
-You can use the prompts in your own DeepSeek session and compare your answers with mine. https://chat.deepseek.com/. Yes, you too, you can design Machu Picchu !!!
+You can use the prompts in your own DeepSeek / le Chat sessions and compare your answers with mine. https://chat.deepseek.com/. https://[chat.deepseek.com](https://chat.mistral.ai/chat)/. Yes, you too, you can design Machu Picchu !!!
 # 0. Initial presentation
 ## My question: 
 *Before I formulate my request, let us proceed step by step. I will first explain my final objectives, then we'll talk about the actions that will be required to achieve the objectives, and we will see together the intermediate data that will be needed. Do you understand ? Do you have any question ?*
